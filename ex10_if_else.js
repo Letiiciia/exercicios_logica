@@ -16,3 +16,4 @@ if(tempo == "sol"){
 }else{
     console.log("Atividade não encontrada")
 }
+oi
